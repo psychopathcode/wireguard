@@ -1,1 +1,1 @@
-# wireguard
+# zabral https://github.com/Nyr/wireguard-install
